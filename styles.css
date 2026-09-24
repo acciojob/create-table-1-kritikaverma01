@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#sampleTable {
+    border-collapse: collapse;
+}
+
+#sampleTable td {
+    border: 1px solid black;
+    padding: 5px 8px;
+}
+
+input[type="button"] {
+    padding: 5px 12px;
+    font-size: 14px;
+    cursor: pointer;
+}
